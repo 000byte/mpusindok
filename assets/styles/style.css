@@ -1,0 +1,70 @@
+/* Global Styles */
+body { 
+    font-family: 'Poppins', sans-serif; 
+}
+
+/* Map Containers */
+#map { 
+    height: 100%; 
+    width: 100%; 
+    border-radius: inherit; 
+    z-index: 0;
+}
+
+.leaflet-container {
+    background-color: #f8f9fa !important;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+/* Custom Leaflet Tooltip (Lebih minimalis) */
+.custom-tooltip {
+    background: white !important;
+    border: 1px solid #f1f5f9 !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06) !important;
+    font-size: 12px !important;
+    padding: 8px 12px !important;
+    color: #1f2d41 !important;
+    max-width: none !important;
+    white-space: normal !important;
+}
+
+/* Custom Scrollbar (Lebih tipis dan modern) */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+
+.custom-scrollbar::-webkit-scrollbar { width: 4px; }
+.custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+.custom-scrollbar::-webkit-scrollbar-thumb { background: #e2e8f0; border-radius: 10px; }
+.custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #cbd5e1; }
+
+/* Utilities - Hover yang lebih halus */
+.hover-lift {
+    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.2s ease-in-out;
+}
+.hover-lift:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -2px rgba(0, 0, 0, 0.04) !important;
+}
+
+/* Tab Switcher */
+.tab-btn { 
+    color: #64748b; 
+    background: transparent; 
+}
+.tab-btn.tab-active { 
+    color: #1f2d41; 
+    background: white; 
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1); 
+}
+
+path.leaflet-interactive:focus {
+    outline: none !important;
+}
+
+.triangle-marker {
+    background: none !important;
+    border: none !important;
+}

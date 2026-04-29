@@ -1,0 +1,1622 @@
+[
+  {
+    "nama_desa": "KELURAHAN MANGUNDIKARAN",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.598416666666666,
+    "lng": 111.91563888888889
+  },
+  {
+    "nama_desa": "KELURAHAN KAUMAN",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.594416666666667,
+    "lng": 111.89500000000001
+  },
+  {
+    "nama_desa": "KELURAHAN PAYAMAN",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.605194444444444,
+    "lng": 111.89805555555556
+  },
+  {
+    "nama_desa": "KELURAHAN BEGADUNG",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.584777777777777,
+    "lng": 111.90466666666667
+  },
+  {
+    "nama_desa": "KELURAHAN BOGO",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.603305555555555,
+    "lng": 111.89086111111112
+  },
+  {
+    "nama_desa": "KELURAHAN CANGKRINGAN",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.601805555555555,
+    "lng": 111.88877777777779
+  },
+  {
+    "nama_desa": "KELURAHAN GANUNGKIDUL",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.604416666666666,
+    "lng": 111.90702777777778
+  },
+  {
+    "nama_desa": "KELURAHAN JATIREJO",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.542805555555556,
+    "lng": 111.90677777777779
+  },
+  {
+    "nama_desa": "KELURAHAN KARTOHARJO",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.542805555555556,
+    "lng": 111.90677777777779
+  },
+  {
+    "nama_desa": "KELURAHAN PLOSO",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.617222222222223,
+    "lng": 111.89838888888889
+  },
+  {
+    "nama_desa": "KELURAHAN KRAMAT",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.6129999999999995,
+    "lng": 111.91319444444446
+  },
+  {
+    "nama_desa": "KELURAHAN RINGINANOM",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.587694444444444,
+    "lng": 111.89147222222223
+  },
+  {
+    "nama_desa": "KELURAHAN WERUNGOTOK",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.593527777777777,
+    "lng": 111.92297222222223
+  },
+  {
+    "nama_desa": "DESA BALONGPACUL",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.569055555555555,
+    "lng": 111.92155555555556
+  },
+  {
+    "nama_desa": "DESA KEDUNGDOWO",
+    "kecamatan": "KECAMATAN NGANJUK",
+    "lat": -7.573305555555556,
+    "lng": 111.90661111111112
+  },
+  {
+    "nama_desa": "DESA DUREN",
+    "kecamatan": "KECAMATAN SAWAHAN",
+    "lat": -7.697777777777778,
+    "lng": 111.76930555555556
+  },
+  {
+    "nama_desa": "DESA KEBONAGUNG",
+    "kecamatan": "KECAMATAN SAWAHAN",
+    "lat": -7.687194444444445,
+    "lng": 111.80616666666667
+  },
+  {
+    "nama_desa": "DESA MARGOPATUT",
+    "kecamatan": "KECAMATAN SAWAHAN",
+    "lat": -7.715944444444444,
+    "lng": 111.78319444444445
+  },
+  {
+    "nama_desa": "DESA NGLIMAN",
+    "kecamatan": "KECAMATAN SAWAHAN",
+    "lat": -7.763972222222222,
+    "lng": 111.763
+  },
+  {
+    "nama_desa": "DESA SAWAHAN",
+    "kecamatan": "KECAMATAN SAWAHAN",
+    "lat": -7.729805555555556,
+    "lng": 111.77027777777778
+  },
+  {
+    "nama_desa": "DESA SIDOREJO",
+    "kecamatan": "KECAMATAN SAWAHAN",
+    "lat": -7.720361111111111,
+    "lng": 111.77702777777777
+  },
+  {
+    "nama_desa": "DESA SIWALAN",
+    "kecamatan": "KECAMATAN SAWAHAN",
+    "lat": -7.695138888888889,
+    "lng": 111.79777777777778
+  },
+  {
+    "nama_desa": "DESA BLONGKO",
+    "kecamatan": "KECAMATAN NGETOS",
+    "lat": -7.7443888888888885,
+    "lng": 111.83122222222222
+  },
+  {
+    "nama_desa": "DESA KEPEL",
+    "kecamatan": "KECAMATAN NGETOS",
+    "lat": -7.725222222222222,
+    "lng": 111.81791666666666
+  },
+  {
+    "nama_desa": "DESA KLODAN",
+    "kecamatan": "KECAMATAN NGETOS",
+    "lat": -7.7498611111111115,
+    "lng": 111.83408333333333
+  },
+  {
+    "nama_desa": "DESA KUNCIR",
+    "kecamatan": "KECAMATAN NGETOS",
+    "lat": -7.672833333333334,
+    "lng": 111.8476111111111
+  },
+  {
+    "nama_desa": "DESA KWEDEN",
+    "kecamatan": "KECAMATAN NGETOS",
+    "lat": -7.688138888888889,
+    "lng": 111.82213888888889
+  },
+  {
+    "nama_desa": "DESA MOJODUWUR",
+    "kecamatan": "KECAMATAN NGETOS",
+    "lat": -7.673694444444445,
+    "lng": 111.85930555555555
+  },
+  {
+    "nama_desa": "DESA NGETOS",
+    "kecamatan": "KECAMATAN NGETOS",
+    "lat": -7.6922500000000005,
+    "lng": 111.84113888888888
+  },
+  {
+    "nama_desa": "DESA ORO-ORO OMBO",
+    "kecamatan": "KECAMATAN NGETOS",
+    "lat": -7.6969722222222225,
+    "lng": 111.86988888888888
+  },
+  {
+    "nama_desa": "DESA SURU",
+    "kecamatan": "KECAMATAN NGETOS",
+    "lat": -7.717777777777778,
+    "lng": 111.84841666666667
+  },
+  {
+    "nama_desa": "DESA BALONGREJO",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.627916666666668,
+    "lng": 111.88252777777777
+  },
+  {
+    "nama_desa": "DESA BULU",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.621777777777778,
+    "lng": 111.85252777777777
+  },
+  {
+    "nama_desa": "DESA CEPOKO",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.670416666666667,
+    "lng": 111.83572222222222
+  },
+  {
+    "nama_desa": "DESA KACANGAN",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.659638888888889,
+    "lng": 111.86694444444444
+  },
+  {
+    "nama_desa": "DESA MAGUAN",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.670861111111112,
+    "lng": 111.83749999999999
+  },
+  {
+    "nama_desa": "DESA MLILIR",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.621833333333334,
+    "lng": 111.85249999999999
+  },
+  {
+    "nama_desa": "DESA NGRAWAN",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.661527777777778,
+    "lng": 111.88047222222221
+  },
+  {
+    "nama_desa": "DESA PATRANREJO",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.639805555555555,
+    "lng": 111.87461111111111
+  },
+  {
+    "nama_desa": "DESA SALAMROJO",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.680305555555556,
+    "lng": 111.81402777777778
+  },
+  {
+    "nama_desa": "DESA SEMARE",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.667694444444445,
+    "lng": 111.85016666666667
+  },
+  {
+    "nama_desa": "DESA SENDANGBUMEN",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.644888888888889,
+    "lng": 111.8641111111111
+  },
+  {
+    "nama_desa": "DESA SENGKUT",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.660611111111112,
+    "lng": 111.87424999999999
+  },
+  {
+    "nama_desa": "DESA SONOPATIK",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.61738888888889,
+    "lng": 111.87208333333332
+  },
+  {
+    "nama_desa": "DESA SUMBERURIP",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.629888888888889,
+    "lng": 111.84869444444443
+  },
+  {
+    "nama_desa": "DESA TIRIPAN",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.632722222222223,
+    "lng": 111.86955555555555
+  },
+  {
+    "nama_desa": "DESA GROJOGAN",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.619222222222223,
+    "lng": 111.8653611111111
+  },
+  {
+    "nama_desa": "DESA BERBEK",
+    "kecamatan": "KECAMATAN BERBEK",
+    "lat": -7.6617500000000005,
+    "lng": 111.86180555555555
+  },
+  {
+    "nama_desa": "DESA BAJULAN",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.758333333333334,
+    "lng": 111.85983333333333
+  },
+  {
+    "nama_desa": "DESA CANDIREJO",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.6419999999999995,
+    "lng": 111.88850000000001
+  },
+  {
+    "nama_desa": "DESA GEJAGAN",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.6535,
+    "lng": 111.89691666666667
+  },
+  {
+    "nama_desa": "DESA GENJENG",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.702444444444445,
+    "lng": 111.8866388888889
+  },
+  {
+    "nama_desa": "DESA GODEAN",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.655083333333334,
+    "lng": 111.897
+  },
+  {
+    "nama_desa": "DESA JATIREJO",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.652861111111111,
+    "lng": 111.89077777777779
+  },
+  {
+    "nama_desa": "DESA KARANGSONO",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.672750000000001,
+    "lng": 111.89519444444446
+  },
+  {
+    "nama_desa": "DESA KENEP",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.643666666666666,
+    "lng": 111.92191666666668
+  },
+  {
+    "nama_desa": "DESA KWAGEAN",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.63875,
+    "lng": 111.9085
+  },
+  {
+    "nama_desa": "DESA LOCERET",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.648111111111111,
+    "lng": 111.89441666666667
+  },
+  {
+    "nama_desa": "DESA MACANAN",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.721527777777778,
+    "lng": 111.8791111111111
+  },
+  {
+    "nama_desa": "DESA MUNGKUNG",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.6354999999999995,
+    "lng": 111.88416666666667
+  },
+  {
+    "nama_desa": "DESA NGEPEH",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.664416666666667,
+    "lng": 111.88455555555556
+  },
+  {
+    "nama_desa": "DESA NGLABAN",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.623611111111112,
+    "lng": 111.92525
+  },
+  {
+    "nama_desa": "DESA PUTUKREJO",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.64525,
+    "lng": 111.93308333333334
+  },
+  {
+    "nama_desa": "DESA SEKARAN",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.64211111111111,
+    "lng": 111.91586111111111
+  },
+  {
+    "nama_desa": "DESA SOMBRON",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.62825,
+    "lng": 111.91000000000001
+  },
+  {
+    "nama_desa": "DESA TANJUNGREJO",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.605555555555555,
+    "lng": 111.90580555555556
+  },
+  {
+    "nama_desa": "DESA TEKENGLAGAHAN",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.646527777777777,
+    "lng": 111.88402777777779
+  },
+  {
+    "nama_desa": "DESA TEMPELWETAN",
+    "kecamatan": "KECAMATAN LOCERET",
+    "lat": -7.652916666666667,
+    "lng": 111.87922222222221
+  },
+  {
+    "nama_desa": "DESA BABADAN",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.6657222222222225,
+    "lng": 111.92280555555556
+  },
+  {
+    "nama_desa": "DESA BANARAN",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.654361111111111,
+    "lng": 111.92183333333334
+  },
+  {
+    "nama_desa": "DESA BATEMBAT",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.660916666666667,
+    "lng": 111.9113888888889
+  },
+  {
+    "nama_desa": "DESA BODOR",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.6645,
+    "lng": 111.92869444444445
+  },
+  {
+    "nama_desa": "DESA CERME",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.680888888888889,
+    "lng": 111.91841666666667
+  },
+  {
+    "nama_desa": "DESA GEMENGGENG",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.661361111111112,
+    "lng": 111.94347222222223
+  },
+  {
+    "nama_desa": "DESA GONDANG",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.687638888888889,
+    "lng": 111.91616666666667
+  },
+  {
+    "nama_desa": "DESA JAMPES",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.678333333333334,
+    "lng": 111.89944444444446
+  },
+  {
+    "nama_desa": "DESA JATIGREGES",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.704694444444445,
+    "lng": 111.9136388888889
+  },
+  {
+    "nama_desa": "DESA JETIS",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.657972222222223,
+    "lng": 111.9321388888889
+  },
+  {
+    "nama_desa": "DESA JOHO",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.69575,
+    "lng": 111.92488888888889
+  },
+  {
+    "nama_desa": "DESA KECUBUNG",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.655416666666667,
+    "lng": 111.93388888888889
+  },
+  {
+    "nama_desa": "DESA KEPANJEN",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.636611111111111,
+    "lng": 111.93444444444445
+  },
+  {
+    "nama_desa": "DESA MLANDANGAN",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.67325,
+    "lng": 111.90777777777778
+  },
+  {
+    "nama_desa": "DESA PACEKULON",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.683222222222223,
+    "lng": 111.92497222222222
+  },
+  {
+    "nama_desa": "DESA PACEWETAN",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.681222222222223,
+    "lng": 111.93655555555556
+  },
+  {
+    "nama_desa": "DESA PLOSOHARJO",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.654972222222223,
+    "lng": 111.94813888888889
+  },
+  {
+    "nama_desa": "DESA SANAN",
+    "kecamatan": "KECAMATAN PACE",
+    "lat": -7.690916666666667,
+    "lng": 111.93869444444445
+  },
+  {
+    "nama_desa": "DESA BALETURI",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.714166666666667,
+    "lng": 111.99858333333333
+  },
+  {
+    "nama_desa": "DESA BANDUNG",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.723222222222223,
+    "lng": 111.99586111111111
+  },
+  {
+    "nama_desa": "DESA GONDANGLEGI",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.754111111111111,
+    "lng": 112.01644444444445
+  },
+  {
+    "nama_desa": "DESA KURUNGREJO",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.664027777777778,
+    "lng": 112.02680555555555
+  },
+  {
+    "nama_desa": "DESA MOJOAGUNG",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.730277777777778,
+    "lng": 112.01002777777778
+  },
+  {
+    "nama_desa": "DESA NGLAWAK",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.710666666666667,
+    "lng": 111.99058333333333
+  },
+  {
+    "nama_desa": "DESA ROWOHARJO",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.6995000000000005,
+    "lng": 111.99666666666667
+  },
+  {
+    "nama_desa": "DESA SANGGRAHAN",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.707222222222223,
+    "lng": 112.0185
+  },
+  {
+    "nama_desa": "DESA SINGKALANYAR",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.739055555555556,
+    "lng": 112.01922222222223
+  },
+  {
+    "nama_desa": "DESA SONOAGENG",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.676555555555556,
+    "lng": 112.01633333333334
+  },
+  {
+    "nama_desa": "DESA SUGIHWARAS",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.684861111111111,
+    "lng": 112.00561111111111
+  },
+  {
+    "nama_desa": "DESA TANJUNGTANI",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.721166666666667,
+    "lng": 112.02505555555555
+  },
+  {
+    "nama_desa": "DESA TEGARON",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.718472222222222,
+    "lng": 112.01491666666666
+  },
+  {
+    "nama_desa": "DESA WATUDANDANG",
+    "kecamatan": "KECAMATAN PRAMBON",
+    "lat": -7.738944444444445,
+    "lng": 112.01922222222223
+  },
+  {
+    "nama_desa": "DESA BANJARSARI",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.6730277777777784,
+    "lng": 112.07591666666666
+  },
+  {
+    "nama_desa": "DESA BETET",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.644944444444444,
+    "lng": 112.04116666666667
+  },
+  {
+    "nama_desa": "DESA CENGKOK",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.692027777777778,
+    "lng": 112.03597222222223
+  },
+  {
+    "nama_desa": "DESA DADAPAN",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.662083333333333,
+    "lng": 112.07919444444444
+  },
+  {
+    "nama_desa": "DESA JUWET",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.716972222222222,
+    "lng": 112.04891666666667
+  },
+  {
+    "nama_desa": "DESA KALIANYAR",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.644805555555555,
+    "lng": 112.06697222222222
+  },
+  {
+    "nama_desa": "DESA KALORAN",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.6335,
+    "lng": 112.04838888888888
+  },
+  {
+    "nama_desa": "DESA KELUTAN",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.693305555555556,
+    "lng": 112.06869444444445
+  },
+  {
+    "nama_desa": "DESA KLURAHAN",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.652861111111111,
+    "lng": 112.05938888888889
+  },
+  {
+    "nama_desa": "DESA MOJOKENDIL",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.671055555555556,
+    "lng": 112.04055555555556
+  },
+  {
+    "nama_desa": "DESA NGRONGGOT",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.677333333333333,
+    "lng": 112.06116666666667
+  },
+  {
+    "nama_desa": "DESA TANJUNGKALANG",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.709472222222223,
+    "lng": 112.04211111111111
+  },
+  {
+    "nama_desa": "DESA TRAYANG",
+    "kecamatan": "KECAMATAN NGRONGGOT",
+    "lat": -7.648694444444444,
+    "lng": 112.08869444444444
+  },
+  {
+    "nama_desa": "KELURAHAN BANARAN",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.588027777777778,
+    "lng": 112.10188888888888
+  },
+  {
+    "nama_desa": "DESA BANGSRI",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.622027777777778,
+    "lng": 112.09866666666666
+  },
+  {
+    "nama_desa": "DESA DRENGES",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.638888888888888,
+    "lng": 112.08227777777778
+  },
+  {
+    "nama_desa": "DESA JUWONO",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.625555555555556,
+    "lng": 112.09441666666666
+  },
+  {
+    "nama_desa": "DESA KALIANYAR",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.6387222222222215,
+    "lng": 112.09366666666666
+  },
+  {
+    "nama_desa": "DESA KEPUH",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.606194444444444,
+    "lng": 112.09525
+  },
+  {
+    "nama_desa": "DESA KUDU",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.571527777777778,
+    "lng": 112.11044444444444
+  },
+  {
+    "nama_desa": "DESA KUTOREJO",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.593166666666666,
+    "lng": 112.10549999999999
+  },
+  {
+    "nama_desa": "DESA LAMBANGKUNING",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.589194444444444,
+    "lng": 112.08444444444444
+  },
+  {
+    "nama_desa": "DESA NGLAWAK",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.598444444444445,
+    "lng": 112.08863888888888
+  },
+  {
+    "nama_desa": "DESA PANDANTOYO",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.583944444444444,
+    "lng": 112.09497222222221
+  },
+  {
+    "nama_desa": "DESA PELEM",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.599027777777778,
+    "lng": 112.10369444444444
+  },
+  {
+    "nama_desa": "DESA TANJUNG",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.617472222222223,
+    "lng": 112.08705555555555
+  },
+  {
+    "nama_desa": "DESA TEMBARAK",
+    "kecamatan": "KECAMATAN KERTOSONO",
+    "lat": -7.614388888888889,
+    "lng": 112.0991111111111
+  },
+  {
+    "nama_desa": "DESA BABADAN",
+    "kecamatan": "KECAMATAN PATIANROWO",
+    "lat": -7.6658333333333335,
+    "lng": 111.92286111111112
+  },
+  {
+    "nama_desa": "DESA BUKUR",
+    "kecamatan": "KECAMATAN PATIANROWO",
+    "lat": -7.542694444444444,
+    "lng": 112.06691666666666
+  },
+  {
+    "nama_desa": "DESA LESTARI",
+    "kecamatan": "KECAMATAN PATIANROWO",
+    "lat": -7.5793333333333335,
+    "lng": 112.10872222222221
+  },
+  {
+    "nama_desa": "DESA NGEPUNG",
+    "kecamatan": "KECAMATAN PATIANROWO",
+    "lat": -7.558722222222222,
+    "lng": 112.09822222222222
+  },
+  {
+    "nama_desa": "DESA NGROMBOT",
+    "kecamatan": "KECAMATAN PATIANROWO",
+    "lat": -7.5793333333333335,
+    "lng": 112.10872222222221
+  },
+  {
+    "nama_desa": "DESA PAKUNCEN",
+    "kecamatan": "KECAMATAN PATIANROWO",
+    "lat": -7.5793333333333335,
+    "lng": 112.10872222222221
+  },
+  {
+    "nama_desa": "DESA PATIANROWO",
+    "kecamatan": "KECAMATAN PATIANROWO",
+    "lat": -7.5632777777777775,
+    "lng": 112.1116111111111
+  },
+  {
+    "nama_desa": "DESA PECUK",
+    "kecamatan": "KECAMATAN PATIANROWO",
+    "lat": -7.567694444444444,
+    "lng": 112.1095
+  },
+  {
+    "nama_desa": "DESA PISANG",
+    "kecamatan": "KECAMATAN PATIANROWO",
+    "lat": -7.571611111111111,
+    "lng": 112.10122222222222
+  },
+  {
+    "nama_desa": "DESA ROWOMARTO",
+    "kecamatan": "KECAMATAN PATIANROWO",
+    "lat": -7.537611111111111,
+    "lng": 112.11119444444444
+  },
+  {
+    "nama_desa": "DESA TIRTOBINANGUN",
+    "kecamatan": "KECAMATAN PATIANROWO",
+    "lat": -7.535027777777778,
+    "lng": 112.14055555555557
+  },
+  {
+    "nama_desa": "DESA BARON",
+    "kecamatan": "KECAMATAN BARON",
+    "lat": -7.606888888888888,
+    "lng": 112.05177777777777
+  },
+  {
+    "nama_desa": "DESA GARU",
+    "kecamatan": "KECAMATAN BARON",
+    "lat": -7.56975,
+    "lng": 112.07036111111111
+  },
+  {
+    "nama_desa": "DESA GEBANGKEREP",
+    "kecamatan": "KECAMATAN BARON",
+    "lat": -7.615138888888889,
+    "lng": 112.06077777777777
+  },
+  {
+    "nama_desa": "DESA JEKEK",
+    "kecamatan": "KECAMATAN BARON",
+    "lat": -7.578555555555555,
+    "lng": 112.05958333333334
+  },
+  {
+    "nama_desa": "DESA KATERBAN",
+    "kecamatan": "KECAMATAN BARON",
+    "lat": -7.558888888888888,
+    "lng": 112.04975
+  },
+  {
+    "nama_desa": "DESA KEMADUH",
+    "kecamatan": "KECAMATAN BARON",
+    "lat": -7.582916666666667,
+    "lng": 112.07780555555556
+  },
+  {
+    "nama_desa": "DESA MABUNG",
+    "kecamatan": "KECAMATAN BARON",
+    "lat": -7.569,
+    "lng": 112.03194444444445
+  },
+  {
+    "nama_desa": "DESA SAMBIROTO",
+    "kecamatan": "KECAMATAN BARON",
+    "lat": -7.5689722222222215,
+    "lng": 112.03191666666666
+  },
+  {
+    "nama_desa": "DESA WAUNG",
+    "kecamatan": "KECAMATAN BARON",
+    "lat": -7.605722222222222,
+    "lng": 112.05358333333334
+  },
+  {
+    "nama_desa": "DESA JAMBI",
+    "kecamatan": "KECAMATAN BARON",
+    "lat": -7.569361111111111,
+    "lng": 112.02027777777778
+  },
+  {
+    "nama_desa": "DESA KEMLOKOLEGI",
+    "kecamatan": "KECAMATAN BARON",
+    "lat": -7.587277777777778,
+    "lng": 112.06136111111111
+  },
+  {
+    "nama_desa": "KELURAHAN TANJUNGANOM",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.6295,
+    "lng": 112.02094444444444
+  },
+  {
+    "nama_desa": "KELURAHAN WARUJAYENG",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.620972222222223,
+    "lng": 112.01991666666666
+  },
+  {
+    "nama_desa": "DESA BANJARANYAR",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.619583333333334,
+    "lng": 111.9931388888889
+  },
+  {
+    "nama_desa": "DESA DEMANGAN",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.584499999999999,
+    "lng": 111.99422222222222
+  },
+  {
+    "nama_desa": "DESA GETAS",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.651750000000001,
+    "lng": 111.95669444444445
+  },
+  {
+    "nama_desa": "DESA JOGOMERTO",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.621055555555556,
+    "lng": 112.04252777777778
+  },
+  {
+    "nama_desa": "DESA KAMPUNGBARU",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.646055555555555,
+    "lng": 112.0153611111111
+  },
+  {
+    "nama_desa": "DESA KEDUNGOMBO",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.669972222222222,
+    "lng": 111.96061111111112
+  },
+  {
+    "nama_desa": "DESA KEDUNGREJO",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.600527777777778,
+    "lng": 112.01930555555556
+  },
+  {
+    "nama_desa": "DESA MALANGSARI",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.652583333333333,
+    "lng": 111.97366666666667
+  },
+  {
+    "nama_desa": "DESA NGADIREJO",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.652638888888889,
+    "lng": 111.97363888888889
+  },
+  {
+    "nama_desa": "DESA SIDOHARJO",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.627666666666667,
+    "lng": 112.00783333333334
+  },
+  {
+    "nama_desa": "DESA SONOBEKEL",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.638388888888889,
+    "lng": 111.95966666666666
+  },
+  {
+    "nama_desa": "DESA SUMBERKEPUH",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.638416666666666,
+    "lng": 111.95969444444445
+  },
+  {
+    "nama_desa": "DESA WATES",
+    "kecamatan": "KECAMATAN TANJUNGANOM",
+    "lat": -7.660777777777779,
+    "lng": 111.99161111111111
+  },
+  {
+    "nama_desa": "DESA BUNGUR",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.602222222222222,
+    "lng": 111.95730555555556
+  },
+  {
+    "nama_desa": "DESA NGLUNDO",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.602972222222222,
+    "lng": 111.96930555555556
+  },
+  {
+    "nama_desa": "DESA KEDUNGSOKO",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.598888888888888,
+    "lng": 111.98608333333334
+  },
+  {
+    "nama_desa": "DESA BLITARAN",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.6131111111111105,
+    "lng": 111.9645
+  },
+  {
+    "nama_desa": "DESA SUMENGKO",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.6131111111111105,
+    "lng": 111.96452777777777
+  },
+  {
+    "nama_desa": "DESA NGRAMI",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.584833333333333,
+    "lng": 111.94636111111112
+  },
+  {
+    "nama_desa": "DESA PEHSERUT",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.59875,
+    "lng": 111.93125
+  },
+  {
+    "nama_desa": "DESA BAGORWETAN",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.582472222222222,
+    "lng": 111.93777777777778
+  },
+  {
+    "nama_desa": "DESA PUTREN",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.581222222222222,
+    "lng": 111.92430555555556
+  },
+  {
+    "nama_desa": "DESA NGRENGKET",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.580333333333333,
+    "lng": 111.91302777777778
+  },
+  {
+    "nama_desa": "KELURAHAN KAPAS",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.610805555555555,
+    "lng": 111.93125
+  },
+  {
+    "nama_desa": "KELURAHAN SUKOMORO",
+    "kecamatan": "KECAMATAN SUKOMORO",
+    "lat": -7.6001666666666665,
+    "lng": 111.94547222222222
+  },
+  {
+    "nama_desa": "DESA BANJAREJO",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.513194444444444,
+    "lng": 111.90661111111112
+  },
+  {
+    "nama_desa": "DESA BENDOASRI",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.46325,
+    "lng": 111.81786111111111
+  },
+  {
+    "nama_desa": "DESA GEMPOL",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.569083333333333,
+    "lng": 111.89544444444445
+  },
+  {
+    "nama_desa": "DESA JATIREJO",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.538972222222222,
+    "lng": 111.9068888888889
+  },
+  {
+    "nama_desa": "DESA JINTEL",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.5167222222222225,
+    "lng": 111.93788888888889
+  },
+  {
+    "nama_desa": "DESA KEDUNGPADANG",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.542722222222222,
+    "lng": 111.90686111111111
+  },
+  {
+    "nama_desa": "DESA KLAGEN",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.5167222222222225,
+    "lng": 111.93788888888889
+  },
+  {
+    "nama_desa": "DESA MLORAH",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.5365,
+    "lng": 111.91830555555556
+  },
+  {
+    "nama_desa": "DESA MOJOREMBUN",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.54775,
+    "lng": 111.87741666666666
+  },
+  {
+    "nama_desa": "DESA MUNGKUNG",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.569416666666666,
+    "lng": 111.8901388888889
+  },
+  {
+    "nama_desa": "DESA MUSIRKIDUL",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.514694444444444,
+    "lng": 111.90897222222223
+  },
+  {
+    "nama_desa": "DESA MUSIRLOR",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.510972222222223,
+    "lng": 111.90930555555556
+  },
+  {
+    "nama_desa": "DESA NGADIBOYO",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.530583333333333,
+    "lng": 111.87294444444444
+  },
+  {
+    "nama_desa": "DESA NGANGKATAN",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.527805555555555,
+    "lng": 111.92925000000001
+  },
+  {
+    "nama_desa": "DESA REJOSO",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.5537777777777775,
+    "lng": 111.9315
+  },
+  {
+    "nama_desa": "DESA SAMBIKEREP",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.5040555555555555,
+    "lng": 111.90202777777779
+  },
+  {
+    "nama_desa": "DESA SETREN",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.562388888888889,
+    "lng": 111.89311111111111
+  },
+  {
+    "nama_desa": "DESA SIDOKARE",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.560027777777778,
+    "lng": 111.86922222222222
+  },
+  {
+    "nama_desa": "DESA SUKOREJO",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.563666666666666,
+    "lng": 111.87825
+  },
+  {
+    "nama_desa": "DESA TALANG",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.527,
+    "lng": 111.90672222222223
+  },
+  {
+    "nama_desa": "DESA TALUN",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.523166666666667,
+    "lng": 111.93922222222223
+  },
+  {
+    "nama_desa": "DESA TRITIK",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.478638888888889,
+    "lng": 111.8526111111111
+  },
+  {
+    "nama_desa": "DESA WENGKAL",
+    "kecamatan": "KECAMATAN REJOSO",
+    "lat": -7.499083333333333,
+    "lng": 111.92441666666667
+  },
+  {
+    "nama_desa": "DESA BALONGGEBANG",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.533194444444445,
+    "lng": 111.97872222222223
+  },
+  {
+    "nama_desa": "DESA CAMPUR",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.535444444444444,
+    "lng": 111.94991666666667
+  },
+  {
+    "nama_desa": "DESA GONDANGKULON",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.527861111111111,
+    "lng": 111.95727777777778
+  },
+  {
+    "nama_desa": "DESA JAAN",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.537416666666666,
+    "lng": 112.04080555555555
+  },
+  {
+    "nama_desa": "DESA KARANGSEMI",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.565888888888889,
+    "lng": 111.99516666666666
+  },
+  {
+    "nama_desa": "DESA KEDUNGGLUGU",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.5565,
+    "lng": 112.0038611111111
+  },
+  {
+    "nama_desa": "DESA KETAWANG",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.5457777777777775,
+    "lng": 112.00733333333334
+  },
+  {
+    "nama_desa": "DESA LOSARI",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.477805555555555,
+    "lng": 112.00136111111111
+  },
+  {
+    "nama_desa": "DESA MOJOSETO",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.57025,
+    "lng": 111.99127777777778
+  },
+  {
+    "nama_desa": "DESA NGLINGGO",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.573138888888889,
+    "lng": 111.97772222222223
+  },
+  {
+    "nama_desa": "DESA NGUJUNG",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.535916666666666,
+    "lng": 112.00488888888889
+  },
+  {
+    "nama_desa": "DESA PANDEAN",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.522583333333333,
+    "lng": 112.0735
+  },
+  {
+    "nama_desa": "DESA SANGGRAHAN",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.5235,
+    "lng": 111.9546388888889
+  },
+  {
+    "nama_desa": "DESA SENGGOWAR",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.515722222222222,
+    "lng": 111.95552777777777
+  },
+  {
+    "nama_desa": "DESA SENJAYAN",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.523166666666667,
+    "lng": 111.93922222222223
+  },
+  {
+    "nama_desa": "DESA SUMBERAGUNG",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.442944444444445,
+    "lng": 111.99591666666667
+  },
+  {
+    "nama_desa": "DESA SUMBERJO",
+    "kecamatan": "KECAMATAN GONDANG",
+    "lat": -7.569444,
+    "lng": 111.959444
+  },
+  {
+    "nama_desa": "DESA BAJANG",
+    "kecamatan": "KECAMATAN NGLUYU",
+    "lat": -7.394055555555556,
+    "lng": 111.99772222222222
+  },
+  {
+    "nama_desa": "DESA GAMPENG",
+    "kecamatan": "KECAMATAN NGLUYU",
+    "lat": -7.410166666666667,
+    "lng": 111.99852777777778
+  },
+  {
+    "nama_desa": "DESA LENGKONGLOR",
+    "kecamatan": "KECAMATAN NGLUYU",
+    "lat": -7.435777777777778,
+    "lng": 111.96761111111111
+  },
+  {
+    "nama_desa": "DESA TEMPURAN",
+    "kecamatan": "KECAMATAN NGLUYU",
+    "lat": -7.442944444444445,
+    "lng": 111.99591666666667
+  },
+  {
+    "nama_desa": "DESA NGLUYU",
+    "kecamatan": "KECAMATAN NGLUYU",
+    "lat": -7.453138888888889,
+    "lng": 111.96888888888888
+  },
+  {
+    "nama_desa": "DESA SUGIHWARAS",
+    "kecamatan": "KECAMATAN NGLUYU",
+    "lat": -7.448555555555556,
+    "lng": 111.96158333333334
+  },
+  {
+    "nama_desa": "DESA BALONGASEM",
+    "kecamatan": "KECAMATAN LENGKONG",
+    "lat": -7.442527777777778,
+    "lng": 111.95469444444444
+  },
+  {
+    "nama_desa": "DESA BANGGLE",
+    "kecamatan": "KECAMATAN LENGKONG",
+    "lat": -7.495916666666667,
+    "lng": 112.04916666666666
+  },
+  {
+    "nama_desa": "DESA BANJARDOWO",
+    "kecamatan": "KECAMATAN LENGKONG",
+    "lat": -7.5353055555555555,
+    "lng": 112.06774999999999
+  },
+  {
+    "nama_desa": "DESA JATIPUNGGUR",
+    "kecamatan": "KECAMATAN LENGKONG",
+    "lat": -7.522583333333333,
+    "lng": 112.0735
+  },
+  {
+    "nama_desa": "DESA KEDUNGMLATEN",
+    "kecamatan": "KECAMATAN LENGKONG",
+    "lat": -7.522888888888889,
+    "lng": 112.09863888888889
+  },
+  {
+    "nama_desa": "DESA NGRINGIN",
+    "kecamatan": "KECAMATAN LENGKONG",
+    "lat": -7.512194444444445,
+    "lng": 112.07266666666666
+  },
+  {
+    "nama_desa": "DESA PRAYUNGAN",
+    "kecamatan": "KECAMATAN LENGKONG",
+    "lat": -7.506083333333334,
+    "lng": 112.09683333333332
+  },
+  {
+    "nama_desa": "DESA SAWAHAN",
+    "kecamatan": "KECAMATAN LENGKONG",
+    "lat": -7.514666666666667,
+    "lng": 112.08391666666667
+  },
+  {
+    "nama_desa": "DESA SUMBERKEPUH",
+    "kecamatan": "KECAMATAN LENGKONG",
+    "lat": -7.4985,
+    "lng": 112.07663888888888
+  },
+  {
+    "nama_desa": "DESA SUMBERMIRI",
+    "kecamatan": "KECAMATAN LENGKONG",
+    "lat": -7.461138888888889,
+    "lng": 112.04033333333334
+  },
+  {
+    "nama_desa": "DESA SUMBERSONO",
+    "kecamatan": "KECAMATAN LENGKONG",
+    "lat": -7.50275,
+    "lng": 112.08697222222222
+  },
+  {
+    "nama_desa": "DESA BEGENDENG",
+    "kecamatan": "KECAMATAN JATIKALEN",
+    "lat": -7.504416666666667,
+    "lng": 112.14802777777778
+  },
+  {
+    "nama_desa": "DESA DAWUHAN",
+    "kecamatan": "KECAMATAN JATIKALEN",
+    "lat": -7.494277777777778,
+    "lng": 112.15116666666667
+  },
+  {
+    "nama_desa": "DESA DLURUREJO",
+    "kecamatan": "KECAMATAN JATIKALEN",
+    "lat": -7.506972222222222,
+    "lng": 112.13355555555556
+  },
+  {
+    "nama_desa": "DESA GONDANGWETAN",
+    "kecamatan": "KECAMATAN JATIKALEN",
+    "lat": -7.511527777777777,
+    "lng": 112.11866666666666
+  },
+  {
+    "nama_desa": "DESA JATIKALEN",
+    "kecamatan": "KECAMATAN JATIKALEN",
+    "lat": -7.5115,
+    "lng": 112.11866666666666
+  },
+  {
+    "nama_desa": "DESA LUMPANGKUWIK",
+    "kecamatan": "KECAMATAN JATIKALEN",
+    "lat": -7.502194444444444,
+    "lng": 112.13727777777778
+  },
+  {
+    "nama_desa": "DESA MUNUNG",
+    "kecamatan": "KECAMATAN JATIKALEN",
+    "lat": -7.489944444444444,
+    "lng": 112.16191666666667
+  },
+  {
+    "nama_desa": "DESA NGASEM",
+    "kecamatan": "KECAMATAN JATIKALEN",
+    "lat": -7.514805555555555,
+    "lng": 112.11202777777777
+  },
+  {
+    "nama_desa": "DESA PERNING",
+    "kecamatan": "KECAMATAN JATIKALEN",
+    "lat": -7.511416666666666,
+    "lng": 112.11205555555556
+  },
+  {
+    "nama_desa": "DESA PULE",
+    "kecamatan": "KECAMATAN JATIKALEN",
+    "lat": -7.45625,
+    "lng": 112.12677777777778
+  },
+  {
+    "nama_desa": "DESA PULOWETAN",
+    "kecamatan": "KECAMATAN JATIKALEN",
+    "lat": -7.456416666666667,
+    "lng": 112.12672222222221
+  },
+  {
+    "nama_desa": "DESA WILANGAN",
+    "kecamatan": "KECAMATAN WILANGAN",
+    "lat": -7.557526,
+    "lng": 111.825649
+  },
+  {
+    "nama_desa": "DESA NGUDIKAN",
+    "kecamatan": "KECAMATAN WILANGAN",
+    "lat": -7.5504999999999995,
+    "lng": 111.83830555555555
+  },
+  {
+    "nama_desa": "DESA SUDIMOROHARJO",
+    "kecamatan": "KECAMATAN WILANGAN",
+    "lat": -7.6645,
+    "lng": 111.78430555555555
+  },
+  {
+    "nama_desa": "DESA MANCON",
+    "kecamatan": "KECAMATAN WILANGAN",
+    "lat": -7.555499999999999,
+    "lng": 111.83297222222222
+  },
+  {
+    "nama_desa": "DESA SUKOHARJO",
+    "kecamatan": "KECAMATAN WILANGAN",
+    "lat": -7.5485,
+    "lng": 111.85475
+  },
+  {
+    "nama_desa": "DESA NGADIPIRO",
+    "kecamatan": "KECAMATAN WILANGAN",
+    "lat": -7.599944444444444,
+    "lng": 111.79269444444444
+  },
+  {
+    "nama_desa": "DESA BAGOR KULON",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.563916666666667,
+    "lng": 111.84680555555555
+  },
+  {
+    "nama_desa": "DESA BALONGREJO",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.602972222222222,
+    "lng": 111.84891666666667
+  },
+  {
+    "nama_desa": "DESA BANARAN KULON",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.5553888888888885,
+    "lng": 111.86102777777778
+  },
+  {
+    "nama_desa": "DESA BANARAN WETAN",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.557472222222222,
+    "lng": 111.8651111111111
+  },
+  {
+    "nama_desa": "DESA BUDURAN",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.597972222222222,
+    "lng": 111.87180555555555
+  },
+  {
+    "nama_desa": "DESA GANDU",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.598083333333333,
+    "lng": 111.87575
+  },
+  {
+    "nama_desa": "DESA GEMENGGENG",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.569222222222222,
+    "lng": 111.87708333333333
+  },
+  {
+    "nama_desa": "DESA GIRIREJO",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.613472222222222,
+    "lng": 111.86777777777777
+  },
+  {
+    "nama_desa": "DESA KARANG TENGAH",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.572555555555556,
+    "lng": 111.85980555555555
+  },
+  {
+    "nama_desa": "DESA KENDALREJO",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.570694444444444,
+    "lng": 111.86047222222221
+  },
+  {
+    "nama_desa": "DESA KEREPKIDUL",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.575916666666666,
+    "lng": 111.87583333333333
+  },
+  {
+    "nama_desa": "DESA KUTOREJO",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.574277777777778,
+    "lng": 111.88069444444444
+  },
+  {
+    "nama_desa": "DESA NGUMPUL",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.586472222222222,
+    "lng": 111.84986111111111
+  },
+  {
+    "nama_desa": "DESA PARON",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.570166666666666,
+    "lng": 111.85247222222222
+  },
+  {
+    "nama_desa": "DESA PESUDUKUH",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.602583333333333,
+    "lng": 111.8701111111111
+  },
+  {
+    "nama_desa": "DESA PETAK",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.567166666666666,
+    "lng": 111.85066666666665
+  },
+  {
+    "nama_desa": "DESA SEKARPUTIH",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.602833333333333,
+    "lng": 111.877
+  },
+  {
+    "nama_desa": "DESA SELOREJO",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.574277777777778,
+    "lng": 111.88069444444444
+  },
+  {
+    "nama_desa": "KELURAHAN GUYANGAN",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.581638888888889,
+    "lng": 111.87880555555554
+  },
+  {
+    "nama_desa": "KELURAHAN KEDONDONG",
+    "kecamatan": "KECAMATAN BAGOR",
+    "lat": -7.584944444444444,
+    "lng": 111.88461111111111
+  }
+]
